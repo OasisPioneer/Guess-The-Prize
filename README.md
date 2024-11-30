@@ -16,7 +16,7 @@ Guess-The-Prize 是根据扫码中奖活动所获得的灵感
 
 # 赞助作者
 
-![赞助作者](https://github.com/OasisPioneer/Guess-The-Prize/blob/main/zsm.jpeg)
+![赞助作者](./zsm.jpeg)
 
 # 交流社区
 
