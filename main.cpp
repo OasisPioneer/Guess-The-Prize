@@ -22,9 +22,9 @@ int main()
 {
     const qrcodegen::QrCode::Ecc errCorLvl = qrcodegen::QrCode::Ecc::LOW;
 
-    std::cout << "欢迎使用码产赚钱工具" << std::endl;
+    std::cout << "欢迎使用猜奖娱乐工具" << std::endl;
     std::cout << "请输入你需要产码数量" << std::endl;
-    std::cout << "请输入纯数字:" << std::endl;
+    std::cout << "请输入纯数字:";
 
     int index;
     std::cin >> index;
