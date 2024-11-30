@@ -16,6 +16,10 @@ Guess-The-Prize 是根据扫码中奖活动所获得的灵感
 
 # 赞助作者
 
+![赞助作者](./zsm.jpeg)
+
 # 交流社区
 
-> https://t.me/OasisPioneerCommunity
+> QQ群 278888750
+
+> TG群 https://t.me/OasisPioneerCommunity
